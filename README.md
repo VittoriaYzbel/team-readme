@@ -9,6 +9,11 @@ Shiloh    Developer (Student B)   https://github.com/sltquisote
 - GitHub
 - Visual Studio Code
 - Discord
+## Meeting Schedule
+| Day | Time |
+| :--- | :--- |
+| Monday | 3:00 PM – 4:00 PM |
+| Thursday | 3:00 PM – 4:00 PM |
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
