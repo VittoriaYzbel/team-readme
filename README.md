@@ -1,4 +1,11 @@
 # Team VitnShi
+## Table of Contents
+- [About](#about)
+- [Members](#members)
+- [Tools We Use](#tools-we-use)
+- [Meeting Schedule](#meeting-schedule)
+- [Contact](#contact)
+- [Learning Goals](#learning-goals)
 ## About
 We are computer science students collaborating on our version control lab. This repository is for Computer Science, Section Lithium, taught by Prof. Enorio.
 ## Members
