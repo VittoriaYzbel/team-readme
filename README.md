@@ -1,6 +1,6 @@
 # Team VitnShi
 ## About
-This repository is for our branching and merge conflict activity.
+Our course is Computer Science, Section Lithium, taught by Prof. Enorio.
 ## Members
 Name     | Role                 | GitHub Username
 Vittoria  Developer (Student A)   https://github.com/VittoriaYzbel
