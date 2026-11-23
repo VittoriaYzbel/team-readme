@@ -5,6 +5,10 @@ We are computer science students collaborating on our version control lab. This 
 Name     | Role                 | GitHub Username
 Vittoria  Developer (Student A)   https://github.com/VittoriaYzbel
 Shiloh    Developer (Student B)   https://github.com/sltquisote
+## Tools
+- GitHub
+- Visual Studio Code
+- Discord
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
