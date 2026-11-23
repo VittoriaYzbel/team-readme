@@ -1,6 +1,6 @@
 # Team VitnShi
 ## About
-Our program is about branching and merge request, in year 9.
+We are computer science students collaborating on our version control lab. This repository is for Computer Science, Section Lithium, taught by Prof. Enorio.
 ## Members
 Name     | Role                 | GitHub Username
 Vittoria  Developer (Student A)   https://github.com/VittoriaYzbel
