@@ -1,6 +1,6 @@
 # Team VitnShi
 ## About
-Our course is Computer Science, Section Lithium, taught by Prof. Enorio.
+We are computer science students collaborating on our version control lab. This repository is for Computer Science, Section Lithium, taught by Prof. Enorio.
 ## Members
 Name     | Role                 | GitHub Username
 Vittoria  Developer (Student A)   https://github.com/VittoriaYzbel
