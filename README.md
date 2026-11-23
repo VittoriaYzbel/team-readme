@@ -1,6 +1,6 @@
 # Team VitnShi
 ## About
-This repository is for our branching and merge conflict activity.
+Our program is about branching and merge request, in year 9.
 ## Members
 Name     | Role                 | GitHub Username
 Vittoria  Developer (Student A)   https://github.com/VittoriaYzbel
